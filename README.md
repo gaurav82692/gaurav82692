@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaurav Singh</h1>
-<h3 align="center">Passionate about AI Deep learning Machine learning and Data Science</h3>
+<h3 align="center">Passionate about AI, Deep learning, Machine learning and Data Science</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaurav82692&label=Profile%20views&color=0e75b6&style=flat" alt="gaurav82692" /> </p>
 
